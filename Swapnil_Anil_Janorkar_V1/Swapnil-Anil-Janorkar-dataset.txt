@@ -1,0 +1,13 @@
+
+
+Dataset Name: Vezora/Tested-22k-Python-Alpaca
+Location    : https://huggingface.co/datasets/Vezora/Tested-22k-Python-Alpaca
+
+
+
+Python code to download the dataset
+
+
+from datasets import load_dataset
+
+dataset = load_dataset("Vezora/Tested-22k-Python-Alpaca")
